@@ -5,9 +5,12 @@
 
 ### Ссылочки/странички
 
-- [info](info.md)
-- [rules](rules.md)
-- [join](join.md)
+- [правила](rules.md)
+- [вступить](join.md)
+- [информация](info.md)
+- [телефоны](tel.md)
+
+
 
 ### Markdown
 
