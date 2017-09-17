@@ -3,6 +3,9 @@
 Всякая полезная информация будет здесь.
 А основной сайт [здесь](https://hackerspace.by)
 
+### Ссылочки/странички
+
+- [documentation](https://github.com/minsk-hackerspace/minsk-hackerspace.github.io/info.md)
 
 ### Markdown
 
