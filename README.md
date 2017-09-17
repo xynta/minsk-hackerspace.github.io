@@ -5,7 +5,9 @@
 
 ### Ссылочки/странички
 
-- [documentation](https://github.com/minsk-hackerspace/minsk-hackerspace.github.io/info.md)
+- [info](info.md)
+- [rules](rules.md)
+- [join](join.md)
 
 ### Markdown
 
