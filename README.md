@@ -19,6 +19,7 @@
 ### Support or Contact
 
 Можно [Редактировать](https://github.com/minsk-hackerspace/minsk-hackerspace.github.io/edit/master/README.md) эту страничку
+
 Можно [Добавить](https://github.com/minsk-hackerspace/minsk-hackerspace.github.io/new/master) новую
 
 ### Jekyll Themes
