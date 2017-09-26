@@ -14,7 +14,7 @@
 
 ### Markdown
 
-Используется .md синтаксис
+Используется [.md](https://guides.github.com/features/mastering-markdown/) синтаксис
 
 ### Contribute
 
