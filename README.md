@@ -16,7 +16,7 @@
 
 Используется .md синтаксис
 
-### Support or Contact
+### Contribute
 
 Можно [Редактировать](https://github.com/minsk-hackerspace/minsk-hackerspace.github.io/edit/master/README.md) эту страничку
 
